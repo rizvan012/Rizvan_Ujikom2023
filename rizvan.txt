@@ -1,0 +1,17 @@
+Nama 	 : Rizvan Gunawan
+
+kelas	 : XII RPL 1
+
+jurusan  : Rekayasa Peranggkat Lunak
+
+aplikasi : Laundry
+
+
+
+Link Ghitub:
+
+https://github.com/rizvan012/Rizvan_Ujikom2023
+
+Link Hosting:
+
+https://laundryrizvan.000webhostapp.com/
